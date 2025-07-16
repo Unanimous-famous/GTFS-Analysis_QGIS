@@ -95,5 +95,19 @@ After changing the single color to categorised as before from the properties:
   - Select "Extract on QGIS"
 
 This will similarly create all the stops and routes.
+
+## Stop Frequency Map
+
+<img width="1752" height="1218" alt="image" src="https://github.com/user-attachments/assets/9f0a4b92-68a8-4839-aed9-cc4ba4b40893" />
+
     
+# In R Studio
+
+<img width="2044" height="1646" alt="image" src="https://github.com/user-attachments/assets/09d3385a-d3f2-493e-ae53-40c44d93b45d" />
+
+
+#### In a browser interface:
+
+<img width="3024" height="1718" alt="image" src="https://github.com/user-attachments/assets/086248ef-aee2-48fd-80b2-fb9d44c1c4b0" />
+
 
